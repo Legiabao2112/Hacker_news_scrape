@@ -7,16 +7,6 @@ This Python script fetches the top stories from Hacker News and displays the top
 - Displays the top 3 stories sorted by the highest number of upvotes.
 - Option to open each story link in your web browser directly from the terminal.
 
-## Requirements
-- Python 3.x
-- `requests` library
-- `beautifulsoup4` library
-- `click` library
-
-To install the required libraries, run:
-```sh
-pip install requests beautifulsoup4 click
-```
 
 ## How to Run
 1. Save the Python code to a file, e.g., `hacker_news_scraper.py`.
